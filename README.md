@@ -45,5 +45,4 @@ $ inventree-part-import parts.csv
 **Recursos adicionais:**
 
 * **Site da DigiKey:** [https://www.digikey.com.br/](https://www.digikey.com.br/)
-* **Documentação do inventree-minerva-importer:** [URL inválido removido]
-* **Inventree:** [URL inválido removido]
+* **Documentação do inventree-minerva-importer:** [https://github.com/minervarockets/inventree-minerva-importer](https://github.com/minervarockets/inventree-minerva-importer)
